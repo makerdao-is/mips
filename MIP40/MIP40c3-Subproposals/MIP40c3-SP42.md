@@ -113,9 +113,9 @@ The streaming transaction covers ongoing activity for the core unit:
 
 #### Transactions
 
-195,442.5 DAI will be transferred to 0xd1F2eEf8576736C1EbA36920B957cd2aF07280F4 on 2021-12-01
+195,442.5 DAI will be transferred to 0x3E62E50C4FAFCb5589e1682683ce38e8645541e8 on 2021-12-01
 
-A total of 366,562.5 DAI will be streamed to 0xd1F2eEf8576736C1EbA36920B957cd2aF07280F4 starting 2021-12-01 and ending 2022-08-01
+A total of 366,562.5 DAI will be streamed to 0x3E62E50C4FAFCb5589e1682683ce38e8645541e8 starting 2021-12-01 and ending 2022-08-01
 
 ### Budget Breakdown
 
